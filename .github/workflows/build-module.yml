@@ -16,17 +16,17 @@ jobs:
             pkgarch: aarch64_cortex-a53
             target: rockchip
             subtarget: armv8
-            vermagic: "6.1.118 SMP mod_unload modversions aarch64"
+            vermagic: "95406503857f757c242adad1c14f7d60"
           - tag: "24.10.2"
             pkgarch: aarch64_cortex-a53
             target: rockchip
             subtarget: armv8
-            vermagic: "6.1.118 SMP mod_unload modversions aarch64"
+            vermagic: "95406503857f757c242adad1c14f7d60"
           - tag: "24.10.2"
             pkgarch: aarch64_cortex-a53
             target: rockchip
             subtarget: armv8
-            vermagic: "6.1.118 SMP mod_unload modversions aarch64"
+            vermagic: "95406503857f757c242adad1c14f7d60"
 
     steps:
       - uses: actions/checkout@v4
