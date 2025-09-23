@@ -16,17 +16,17 @@ jobs:
             pkgarch: aarch64_cortex-a53
             target: rockchip
             subtarget: armv8
-            vermagic: "95406503857f757c242adad1c14f7d60"
+            vermagic: "0d90324e4fb76fa1183dcb1f1b600b7a-r1"
           - tag: "24.10.2"
             pkgarch: aarch64_cortex-a53
             target: rockchip
             subtarget: armv8
-            vermagic: "95406503857f757c242adad1c14f7d60"
+            vermagic: "0d90324e4fb76fa1183dcb1f1b600b7a-r1"
           - tag: "24.10.2"
             pkgarch: aarch64_cortex-a53
             target: rockchip
             subtarget: armv8
-            vermagic: "95406503857f757c242adad1c14f7d60"
+            vermagic: "0d90324e4fb76fa1183dcb1f1b600b7a-r1"
 
     steps:
       - uses: actions/checkout@v4
